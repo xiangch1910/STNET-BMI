@@ -3,8 +3,8 @@ Body mass index (BMI) is an essential indicator of human health and is calculate
 ### the main program
 return.py
 ### Code for network models
-1.densenet2d.py   2.resnet2d.py   3.resnet3d.py   4.resnext2d.py   5.vgg16.py   6.vgg16_fc6_2d.py   7.gcblock.py
+1).densenet2d.py   2).resnet2d.py   3).resnet3d.py   4).resnext2d.py   5).vgg16.py   6).vgg16_fc6_2d.py   7).gcblock.py
 ### Data Loading and Processing
-1.dataloader.py   2.samplerF.py   3.Transformer.py
+1).dataloader.py   2).samplerF.py   3).Transformer.py
 ## Pay attention to the path when running the code
 
