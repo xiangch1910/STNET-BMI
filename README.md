@@ -10,21 +10,15 @@ return.py
 1).densenet2d.py   2).resnet2d.py   3).resnet3d.py   4).resnext2d.py   5).vgg16.py   6).vgg16_fc6_2d.py   7).gcblock.py
 ### Data Loading and Processing
 1).dataloader.py   2).samplerF.py   3).Transformer.py
-### Pay attention to the path when running the code
+### !!Pay attention to the path when running the code
 ## Requirements
 CUDA Version = 11.7
-
 Python = 3.9.7 
-
 Pytorch = 1.12.0 
-
 Sklearn = 0.24.2
-
 Numpy = 1.20.0
-
 Matplotlib = 3.4.3
-
-openface 
+Openface 
 ## Figures
 ### The flowchart of data processing
 <div align=left><img src="/picture/data_process.jpg" width="65%" height="65%"></div>
