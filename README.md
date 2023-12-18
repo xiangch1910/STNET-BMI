@@ -11,9 +11,30 @@ return.py
 ### Data Loading and Processing
 1).dataloader.py   2).samplerF.py   3).Transformer.py
 ### Pay attention to the path when running the code
-## Result
-### the process of data
-![](resources/visualglm.png)
+## Requirements
+CUDA Version = 11.7
+
+Python = 3.9.7 
+
+Pytorch = 1.12.0 
+
+Sklearn = 0.24.2
+
+Numpy = 1.20.0
+
+Matplotlib = 3.4.3
+
+openface 
+## Figures
+### The flowchart of data processing
+<div align=left><img src="/picture/data_process.jpg" width="65%" height="65%"></div>
+Fig. 1: The proposed framework for BMI estimation.
+
+### The network structure
+<div align=left><img src="/picture/STNET.jpg" width="65%" height="65%"></div>
+Fig. 2: Architecture of STNet.
+<div align=left><img src="/picture/attention_block.jpg" width="65%" height="65%"></div>
+Fig. 3: Details of the mixed-attention module.
 
 ## License
 
